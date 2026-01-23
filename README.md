@@ -1,9 +1,9 @@
-# Hi there, I'm Serge 👋  
+# Hi there, I'm Serge 👋
 
-### Founder & CTO | AI-Powered Web Solutions | Agile Leader  
+### Product & Delivery | Teams, Systems, and Momentum
 
-🔹 **Building AI-driven web solutions**  
-🔹 **Passionate about Cloud, AI, and Agile Development**  
-🔹 **Empowering businesses with scalable digital platforms**  
+🔹 Turning ideas into shipped products  
+🔹 Building healthy delivery rhythms and practical standards  
+🔹 Working across product, engineering, and operations
 
 📖 [Learn more about me](about.md)
