@@ -15,8 +15,22 @@ I’ve worked across full-stack engineering, product direction, and delivery for
 A curated set of repos and experiments. I keep things small, practical, and review-friendly.
 
 ## Projects
-- **SeedStart** — platform and methodology for founders building from scratch
-- **Agent Coder** — an AI-powered coding assistant focused on developer workflows
+
+### SeedStart
+A platform and methodology to help founders go from idea → team → MVP → launch, with a volunteer-friendly operating model.
+I lead end-to-end development (product definition, architecture, implementation, releases) and keep a steady delivery cadence through clear milestones and rituals.
+
+### Agent Coder
+An AI-powered coding assistant focused on developer workflows.
+I’m building the core “assistant loop” that turns code context into useful suggestions, plus the product surface and onboarding that make it easy to adopt and iterate on.
+
+### JobSearch.Works
+A job search platform built around automation and practical workflows for candidates.
+I’ve led product and engineering direction end-to-end and stayed close to delivery—from early prototypes through production iteration—while balancing speed, quality, and cost.
+
+### BetaBuilders
+A community-driven initiative that supports early-stage founders with coaching, team formation, and product delivery.
+I’ve focused on building repeatable processes for onboarding, collaboration, and shipping—so contributors can make meaningful progress with part-time availability.
 
 ## Connect
 LinkedIn: https://www.linkedin.com/in/sergeivo/
